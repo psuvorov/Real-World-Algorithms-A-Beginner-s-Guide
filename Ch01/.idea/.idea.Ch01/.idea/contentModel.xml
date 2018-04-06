@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\madca\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Ch01.1499505656.00" t="ExcludeRecursive" />
+    <e p="G:\PetProjects\Real-World Algorithms A Beginner's Guide\Ch01" t="IncludeFlat">
+      <e p="Ch01.sln" t="IncludeFlat" />
+      <e p="CorrectBrackets" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CorrectBrackets.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CorrectBrackets.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CorrectBrackets.Test.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tests.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ReversePolishNotation" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ReversePolishNotation.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ReversePolishNotation.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ReversePolishNotation.Test.csproj" t="IncludeRecursive" />
+        <e p="Tests.cs" t="Include" />
+      </e>
+      <e p="Stack" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Stack.cs" t="Include" />
+        <e p="Stack.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Stack.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Stack.Tests.csproj" t="IncludeRecursive" />
+        <e p="Tests.cs" t="Include" />
+      </e>
+      <e p="StockSpans" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StockSpans.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="StockSpans.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StockSpans.Test.csproj" t="IncludeRecursive" />
+        <e p="Tests.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
