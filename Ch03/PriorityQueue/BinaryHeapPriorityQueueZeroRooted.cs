@@ -2,16 +2,16 @@
 
 namespace PriorityQueue
 {
-    // Zero index unused version
-    public class BinaryHeapPriorityQueue<T> : IPriorityQueue<T>
+    // Zero index used version
+    public class BinaryHeapPriorityQueueZeroRooted<T> : IPriorityQueue<T>
     {
         private readonly Func<T, T, int> _comparer;
         private readonly T[] _data; // heap-ordered complete binary tree
         private int _index = 0; 
         
-        public BinaryHeapPriorityQueue(int queueSize, Func<T, T, int> comparer)
+        public BinaryHeapPriorityQueueZeroRooted(int queueSize, Func<T, T, int> comparer)
         {
-            _data = new T[queueSize+1];
+            _data = new T[queueSize];
             _comparer = comparer;
         }
         
@@ -20,8 +20,8 @@ namespace PriorityQueue
             if (IsFull())
                 throw new InvalidOperationException("Queue is full!");
     
-            _data[++_index] = item;
-            Swim(_index);
+            _data[_index] = item;
+            Swim(_index++);
         }
     
         public T Extract()
@@ -29,17 +29,17 @@ namespace PriorityQueue
             if (IsEmpty())
                 throw new InvalidOperationException("Queue is empty!");
     
-            T item = _data[1];
-            Swap(1, _index--);
-            _data[_index + 1] = default(T);
-            Sink(1);
+            T item = _data[0];
+            Swap(0, --_index);
+            _data[_index] = default(T);
+            Sink(0);
     
             return item;
         }
     
         public T Peek()
         {
-            return _data[1];
+            return _data[0];
         }
     
         public int GetSize()
@@ -49,7 +49,7 @@ namespace PriorityQueue
         
         public bool IsFull()
         {
-            return _index == _data.Length - 1;
+            return _index == _data.Length;
         }
     
         public bool IsEmpty()
@@ -60,7 +60,7 @@ namespace PriorityQueue
         private void Swim(int k)
         {
             // check for out-of-bounds array
-            while (k > 1 && Less(k / 2, k)) 
+            while (k > 0 && Less(k / 2, k)) 
             {
                 Swap(k / 2, k);
                 k = k / 2;
@@ -69,10 +69,10 @@ namespace PriorityQueue
     
         private void Sink(int k)
         {
-            while (2*k <= _index) // check for out-of-bounds array
+            while (2*k + 1 < _index) // check for out-of-bounds array
             {
-                int j = 2*k; // descendant index
-                if (j < _index && Less(j, j + 1)) // seek for larger descendant to perform exchange 
+                int j = 2*k + 1; // descendant index
+                if (j + 1 < _index && Less(j, j + 1)) // seek for larger descendant to perform exchange 
                     j++;
                 
                 // procedure is stopped as the current element that

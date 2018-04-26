@@ -39,6 +39,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BinaryHeapPriorityQueue.cs" />
+    <Compile Include="BinaryHeapPriorityQueueZeroRooted.cs" />
+    <Compile Include="IPriorityQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

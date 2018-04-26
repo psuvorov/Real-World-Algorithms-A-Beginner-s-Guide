@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using NUnit.Framework;
-using PriorityQueue;
 
 namespace PriorityQueue.Test
 {
     [TestFixture]
-    public class Tests
+    public class BinaryHeapPriorityQueueTest
     {
         [Test]
         public void Insert_ValidParamsPassed_Success()
