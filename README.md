@@ -4,6 +4,6 @@ Study of the book "Real-World Algorithms A Beginner's Guide" by Panos Louridas (
 The solution considered:
 * Chapter 1: 1, 3, 4
 * Chapter 2: 1, 2, 3, 4, 5
-* Chapter 3: 2, 3, 4
+* Chapter 3: 1, 2, 3, 4
 
     

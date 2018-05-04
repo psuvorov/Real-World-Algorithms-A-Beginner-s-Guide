@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffmanDecoding", "HuffmanD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffmanDecoding.Test", "HuffmanDecoding.Test\HuffmanDecoding.Test.csproj", "{44EADA77-6AF8-4E24-8983-E5ACFC2F7058}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianASCIIHelper", "MartianASCIIHelper\MartianASCIIHelper.csproj", "{0FC794CD-5B04-4515-BB90-EED0C5EB6562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianASCIIHelper.Test", "MartianASCIIHelper.Test\MartianASCIIHelper.Test.csproj", "{E6E58A74-5748-46CB-9570-0262E2DB47BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{44EADA77-6AF8-4E24-8983-E5ACFC2F7058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44EADA77-6AF8-4E24-8983-E5ACFC2F7058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44EADA77-6AF8-4E24-8983-E5ACFC2F7058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC794CD-5B04-4515-BB90-EED0C5EB6562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC794CD-5B04-4515-BB90-EED0C5EB6562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC794CD-5B04-4515-BB90-EED0C5EB6562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC794CD-5B04-4515-BB90-EED0C5EB6562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E58A74-5748-46CB-9570-0262E2DB47BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E58A74-5748-46CB-9570-0262E2DB47BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E58A74-5748-46CB-9570-0262E2DB47BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E58A74-5748-46CB-9570-0262E2DB47BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

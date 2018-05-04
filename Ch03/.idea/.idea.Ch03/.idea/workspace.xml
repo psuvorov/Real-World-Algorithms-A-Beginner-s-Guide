@@ -11,28 +11,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Coder.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Coder.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HuffmanCoding/Coder.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
+            <state relative-caret-position="1530">
               <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Martian.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MartianASCIIHelper/Martian.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="39" column="73" lean-forward="false" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
               <folding>
-                <marker date="1525199470399" expanded="false" signature="6:106" ph="..." />
-                <marker date="1525199470399" expanded="true" signature="131:3222" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="195:470" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="307:354" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="419:464" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="515:984" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="698:772" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="838:978" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="1028:1113" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="1087:1107" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="1173:3220" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="1229:3214" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="1467:1690" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="2020:2255" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="2346:2689" ph="{...}" />
-                <marker date="1525199470399" expanded="true" signature="3066:3169" ph="{...}" />
+                <marker date="1525417049090" expanded="false" signature="6:95" ph="..." />
+                <marker date="1525417049090" expanded="true" signature="125:1620" ph="{...}" />
+                <marker date="1525417049090" expanded="true" signature="159:1618" ph="{...}" />
+                <marker date="1525417049090" expanded="true" signature="242:878" ph="{...}" />
+                <marker date="1525417049090" expanded="true" signature="453:868" ph="{...}" />
+                <marker date="1525417049090" expanded="true" signature="938:1013" ph="{...}" />
+                <marker date="1525417049090" expanded="true" signature="1088:1464" ph="{...}" />
+                <marker date="1525417049090" expanded="true" signature="1308:1429" ph="{...}" />
+                <marker date="1525417049090" expanded="true" signature="1524:1603" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MartianASCIIHelper.Test/Tests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding>
+                <marker date="1525417227534" expanded="false" signature="6:74" ph="..." />
+                <marker date="1525417227534" expanded="true" signature="109:1485" ph="{...}" />
+                <marker date="1525417227534" expanded="true" signature="152:1483" ph="{...}" />
+                <marker date="1525417227534" expanded="true" signature="206:1477" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -41,11 +59,10 @@
       <file leaf-file-name="Decoder.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HuffmanDecoding/Decoder.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="165">
               <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
-                <marker date="1525201996611" expanded="true" signature="6:52" ph="..." />
-                <marker date="1525201996611" expanded="true" signature="79:1066" ph="{...}" />
+                <marker date="1525201996611" expanded="false" signature="6:52" ph="..." />
                 <marker date="1525201996611" expanded="true" signature="113:1064" ph="{...}" />
                 <marker date="1525201996611" expanded="true" signature="306:1058" ph="{...}" />
                 <marker date="1525201996611" expanded="true" signature="547:1012" ph="{...}" />
@@ -62,6 +79,7 @@
     <setting file="file://$PROJECT_DIR$/HuffmanCoding/Coder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/2b/a3800ed5/WorkItem.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CE073096-ED89-4F7E-B8BF-05628286ED96/10/59c3c5d5/StringComparison.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MartianASCIIHelper/Martian.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HuffmanCoding.Test/Tests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PriorityQueue.Test/BinaryHeapPriorityQueueTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B48979BD-2A86-4A1A-9CE7-C60BE98F59BF/ca/54a36f07/SortedDictionary`2.cs" root0="SKIP_INSPECTION" />
@@ -73,6 +91,7 @@
     <setting file="file://$PROJECT_DIR$/PriorityQueue/BinaryHeapPriorityQueueZeroRooted.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PriorityQueue/BinaryHeapPriorityQueue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/b6/2b6605a7/Reflect.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/MartianASCIIHelper.Test/Tests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,6 +111,9 @@
         <option value="$PROJECT_DIR$/HuffmanDecoding/Class1.cs" />
         <option value="$PROJECT_DIR$/HuffmanDecoding/Decoder.cs" />
         <option value="$PROJECT_DIR$/HuffmanDecoding.Test/Tests.cs" />
+        <option value="$PROJECT_DIR$/MartianASCIIHelper/Class1.cs" />
+        <option value="$PROJECT_DIR$/MartianASCIIHelper/Martian.cs" />
+        <option value="$PROJECT_DIR$/MartianASCIIHelper.Test/Tests.cs" />
       </list>
     </option>
   </component>
@@ -128,33 +150,35 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Ch03 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Ch03 (8 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Ch03 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="HuffmanCoding" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Ch03 (8 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MartianASCIIHelper" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Ch03 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="HuffmanCoding.Test" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Ch03 (8 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MartianASCIIHelper.Test" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Ch03 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="HuffmanDecoding" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Ch03 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="HuffmanDecoding.Test" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Ch03 (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="HuffmanDecoding.Test" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Ch03 (8 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MartianASCIIHelper.Test" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Ch03 (8 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MartianASCIIHelper.Test" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assemblies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Ch03 (8 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PriorityQueue.Test" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -217,11 +241,15 @@
       <workItem from="1525014032060" duration="6079000" />
       <workItem from="1525094071327" duration="8772000" />
       <workItem from="1525168003926" duration="5783000" />
+      <workItem from="1525204607700" duration="606000" />
+      <workItem from="1525278035324" duration="6145000" />
+      <workItem from="1525411834825" duration="3695000" />
+      <workItem from="1525415785080" duration="1456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62750000" />
+    <option name="totallyTimeSpent" value="74652000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,13 +272,13 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20948827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21801706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.403125" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48020834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -282,47 +310,130 @@
           </properties>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/HuffmanCoding/Coder.cs</url>
-          <line>106</line>
-          <properties documentPath="$PROJECT_DIR$/HuffmanCoding/Coder.cs" initialLine="106">
-            <startOffsets>
-              <startOffset value="3183" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="3204" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="53" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MartianASCIIHelper.Test/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1525417227534" expanded="false" signature="6:74" ph="..." />
+            <marker date="1525417227534" expanded="true" signature="109:1485" ph="{...}" />
+            <marker date="1525417227534" expanded="true" signature="152:1483" ph="{...}" />
+            <marker date="1525417227534" expanded="true" signature="206:1477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuffmanCoding/Coder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MartianASCIIHelper.Test/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1525417227534" expanded="false" signature="6:74" ph="..." />
+            <marker date="1525417227534" expanded="true" signature="109:1485" ph="{...}" />
+            <marker date="1525417227534" expanded="true" signature="152:1483" ph="{...}" />
+            <marker date="1525417227534" expanded="true" signature="206:1477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuffmanDecoding/Decoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <marker date="1525201996611" expanded="false" signature="6:52" ph="..." />
+            <marker date="1525201996611" expanded="true" signature="113:1064" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="306:1058" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="547:1012" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="719:909" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="930:998" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MartianASCIIHelper/Martian.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="51" lean-forward="false" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+          <folding>
+            <marker date="1525417049090" expanded="false" signature="6:95" ph="..." />
+            <marker date="1525417049090" expanded="true" signature="125:1620" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="159:1618" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="242:878" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="453:868" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="938:1013" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="1088:1464" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="1308:1429" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="1524:1603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HuffmanCoding/Coder.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuffmanDecoding/Decoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
-            <marker date="1525199470399" expanded="false" signature="6:106" ph="..." />
-            <marker date="1525199470399" expanded="true" signature="131:3222" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="195:470" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="307:354" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="419:464" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="515:984" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="698:772" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="838:978" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1028:1113" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1087:1107" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1173:3220" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1229:3214" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1467:1690" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2020:2255" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2346:2689" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="3066:3169" ph="{...}" />
+            <marker date="1525201996611" expanded="false" signature="6:52" ph="..." />
+            <marker date="1525201996611" expanded="true" signature="113:1064" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="306:1058" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="547:1012" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="719:909" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="930:998" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuffmanCoding/Coder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuffmanDecoding/Decoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <marker date="1525201996611" expanded="false" signature="6:52" ph="..." />
+            <marker date="1525201996611" expanded="true" signature="113:1064" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="306:1058" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="547:1012" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="719:909" ph="{...}" />
+            <marker date="1525201996611" expanded="true" signature="930:998" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HuffmanCoding/Coder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -332,7 +443,6 @@
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <marker date="1525199251840" expanded="false" signature="6:36" ph="..." />
-            <marker date="1525199251840" expanded="true" signature="66:617" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="109:615" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="163:265" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="322:444" ph="{...}" />
@@ -345,24 +455,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1525199470399" expanded="false" signature="6:106" ph="..." />
-            <marker date="1525199470399" expanded="true" signature="131:3222" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="195:470" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="307:354" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="419:464" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="515:984" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="698:772" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="838:978" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1028:1113" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1087:1107" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1173:3220" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1229:3214" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1467:1690" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2020:2255" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2346:2689" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="3066:3169" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -372,7 +465,6 @@
           <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding>
             <marker date="1525199251840" expanded="false" signature="6:36" ph="..." />
-            <marker date="1525199251840" expanded="true" signature="66:617" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="109:615" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="163:265" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="322:444" ph="{...}" />
@@ -385,24 +477,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1590">
           <caret line="110" column="12" lean-forward="false" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
-          <folding>
-            <marker date="1525199470399" expanded="false" signature="6:106" ph="..." />
-            <marker date="1525199470399" expanded="true" signature="131:3222" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="195:470" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="307:354" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="419:464" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="515:984" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="698:772" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="838:978" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1028:1113" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1087:1107" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1173:3220" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1229:3214" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1467:1690" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2020:2255" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2346:2689" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="3066:3169" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -419,7 +494,6 @@
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <marker date="1525199251840" expanded="false" signature="6:36" ph="..." />
-            <marker date="1525199251840" expanded="true" signature="66:617" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="109:615" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="163:265" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="322:444" ph="{...}" />
@@ -432,24 +506,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1525199470399" expanded="false" signature="6:106" ph="..." />
-            <marker date="1525199470399" expanded="true" signature="131:3222" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="195:470" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="307:354" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="419:464" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="515:984" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="698:772" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="838:978" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1028:1113" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1087:1107" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1173:3220" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1229:3214" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1467:1690" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2020:2255" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2346:2689" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="3066:3169" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -459,7 +516,6 @@
           <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
             <marker date="1525199251840" expanded="false" signature="6:36" ph="..." />
-            <marker date="1525199251840" expanded="true" signature="66:617" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="109:615" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="163:265" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="322:444" ph="{...}" />
@@ -625,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueue.Test/BinaryHeapPriorityQueueTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
-          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PriorityQueue/BinaryHeapPriorityQueue.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -643,17 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
           <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <marker date="1525202542347" expanded="false" signature="6:89" ph="..." />
-            <marker date="1525202542347" expanded="true" signature="121:1405" ph="{...}" />
-            <marker date="1525202542347" expanded="true" signature="164:1403" ph="{...}" />
-            <marker date="1525202542347" expanded="true" signature="218:516" ph="{...}" />
-            <marker date="1525202542347" expanded="true" signature="303:346" ph="{...}" />
-            <marker date="1525202542347" expanded="true" signature="573:979" ph="{...}" />
-            <marker date="1525202542347" expanded="true" signature="658:789" ph="{...}" />
-            <marker date="1525202542347" expanded="true" signature="1036:1397" ph="{...}" />
-            <marker date="1525202542347" expanded="true" signature="1121:1221" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,7 +701,6 @@
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <marker date="1525199251840" expanded="false" signature="6:36" ph="..." />
-            <marker date="1525199251840" expanded="true" signature="66:617" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="109:615" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="163:265" ph="{...}" />
             <marker date="1525199251840" expanded="true" signature="322:444" ph="{...}" />
@@ -674,11 +711,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HuffmanDecoding/Decoder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="165">
           <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
-            <marker date="1525201996611" expanded="true" signature="6:52" ph="..." />
-            <marker date="1525201996611" expanded="true" signature="79:1066" ph="{...}" />
+            <marker date="1525201996611" expanded="false" signature="6:52" ph="..." />
             <marker date="1525201996611" expanded="true" signature="113:1064" ph="{...}" />
             <marker date="1525201996611" expanded="true" signature="306:1058" ph="{...}" />
             <marker date="1525201996611" expanded="true" signature="547:1012" ph="{...}" />
@@ -690,25 +726,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HuffmanCoding/Coder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
+        <state relative-caret-position="1530">
           <caret line="106" column="12" lean-forward="false" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PriorityQueue.Test/BinaryHeapPriorityQueueTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MartianASCIIHelper.Test/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding>
-            <marker date="1525199470399" expanded="false" signature="6:106" ph="..." />
-            <marker date="1525199470399" expanded="true" signature="131:3222" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="195:470" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="307:354" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="419:464" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="515:984" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="698:772" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="838:978" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1028:1113" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1087:1107" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1173:3220" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1229:3214" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="1467:1690" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2020:2255" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="2346:2689" ph="{...}" />
-            <marker date="1525199470399" expanded="true" signature="3066:3169" ph="{...}" />
+            <marker date="1525417227534" expanded="false" signature="6:74" ph="..." />
+            <marker date="1525417227534" expanded="true" signature="109:1485" ph="{...}" />
+            <marker date="1525417227534" expanded="true" signature="152:1483" ph="{...}" />
+            <marker date="1525417227534" expanded="true" signature="206:1477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MartianASCIIHelper/Martian.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" column="73" lean-forward="false" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
+          <folding>
+            <marker date="1525417049090" expanded="false" signature="6:95" ph="..." />
+            <marker date="1525417049090" expanded="true" signature="125:1620" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="159:1618" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="242:878" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="453:868" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="938:1013" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="1088:1464" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="1308:1429" ph="{...}" />
+            <marker date="1525417049090" expanded="true" signature="1524:1603" ph="{...}" />
           </folding>
         </state>
       </provider>
