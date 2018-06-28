@@ -4,6 +4,24 @@
     <e p="C:\Users\madca\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Ch03.1108325688.00" t="ExcludeRecursive" />
     <e p="G:\PetProjects\Real-World Algorithms A Beginner's Guide\Ch03" t="IncludeFlat">
       <e p="Ch03.sln" t="IncludeFlat" />
+      <e p="HuffmanAndMorseCompare" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Compare.cs" t="Include" />
+        <e p="HuffmanAndMorseCompare.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HuffmanAndMorseCompare.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HuffmanAndMorseCompare.Test.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tests.cs" t="Include" />
+      </e>
       <e p="HuffmanCoding" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Coder.cs" t="Include" />
@@ -52,6 +70,24 @@
       <e p="MartianASCIIHelper.Test" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="MartianASCIIHelper.Test.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tests.cs" t="Include" />
+      </e>
+      <e p="MorseCoding" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Coder.cs" t="Include" />
+        <e p="MorseCoding.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="MorseCoding.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MorseCoding.Test.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />

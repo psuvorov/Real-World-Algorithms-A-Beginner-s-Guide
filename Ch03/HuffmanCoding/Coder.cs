@@ -56,6 +56,8 @@ namespace HuffmanCoding
     
     public static class Coder
     {
+        private static readonly Dictionary<char, TreeNode> CharToNodes = new Dictionary<char, TreeNode>();
+        
         public static string Perform(string text)
         {
             var chars = text.ToCharArray();
@@ -74,12 +76,12 @@ namespace HuffmanCoding
             var priorityQueue = new BinaryHeapPriorityQueue<TreeNode>(alphabetFrequency.Count, (i1, i2) => i2.Count.CompareTo(i1.Count));
             
             
-            var charToNodes = new Dictionary<char, TreeNode>(); 
+             
 
             foreach (var entry in alphabetFrequency)
             {
                 var leafNode = new LeafTreeNode(entry.Value);
-                charToNodes.Add(entry.Key, leafNode);
+                CharToNodes.Add(entry.Key, leafNode);
                 priorityQueue.Insert(leafNode); // Initially PQ contains only leaf nodes  
             }
 
@@ -100,11 +102,23 @@ namespace HuffmanCoding
             var sb = new StringBuilder();
             foreach (var t in chars) // Second pass through the char array
             {
-                var c = charToNodes[t].Code;
+                var c = CharToNodes[t].Code;
                 sb.Append(c);
             }
 
             return sb.ToString();
+        }
+
+        public static Dictionary<char, string> GetCodingTable()
+        {
+            var res = new Dictionary<char, string>();
+
+            foreach (var item in CharToNodes)
+            {
+                res.Add(item.Key, item.Value.Code);
+            }
+
+            return res;
         }
     }
 }
